@@ -17,6 +17,6 @@ calculate();
 System.out.println("a="+a);
 System.out.println("b="+b);
 System.out.println("total="+total);
-System.out.println("average="=average);
+System.out.println("average="+average);
 }
 }
